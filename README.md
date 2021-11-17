@@ -1,2 +1,2 @@
-# C36RV_SpeedRacer_StudentActivity
-Student Activity
+# C36 - Carreras de autos - Actividad del alumno
+Actividad del alumno 
