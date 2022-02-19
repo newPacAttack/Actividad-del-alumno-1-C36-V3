@@ -19,7 +19,7 @@ class Form {
     this.playButton.class("customButton");
     this.greeting.class("greeting");
   }
-
+// soy yo hola
   hide() {
     this.greeting.hide();
     this.playButton.hide();
